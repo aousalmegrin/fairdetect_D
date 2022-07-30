@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name='fairdetect_D',
-      version='0.1',  # Development release
-      description='Python Packaging Starting Kit - Simple Structure to creater your own package - for training purposes!',
+setup(name='fairdetect_dialga',
+      version='0.1',  # Prod release
+      description='Python Package to detect bias in datasets',
       url='https://github.com/aousalmegrin/fairdetect_D',
       author='Group D members',
       author_email='aous.almegrin@student.ie.edu',
       license='MIT',
-          packages=['fairdetect_D'],
+          packages=['fairdetect_dialga'],
       zip_safe=False)
